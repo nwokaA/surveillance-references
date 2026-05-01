@@ -1,6 +1,3 @@
-# Relevant Publications
-
-#
 
 Lewis, J., Slager, S., Barraza, J., Roselle, G., Mayer, J., & Jones, M. (2018).  
 Implementation of the National Healthcare Safety Network’s (NHSN) antimicrobial use option in US Veterans Affairs (VA) medical facilities. *Open Forum Infectious Diseases, 5*(Suppl 1), S532–S533.  
